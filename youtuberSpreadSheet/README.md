@@ -1,4 +1,4 @@
-# Youtube概要チェックスクリプト
+# Youtube登録者数チェックGAS
 ## Usage
 1. SpreadSheetにスクリプトを追加して、ライブラリの
 Youtube Data APIを有効にして利用する。 
